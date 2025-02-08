@@ -1,0 +1,52 @@
+State,State_Abbr,Age/Grade,Vaccination Type Collected,Spatial Resolution,Sources
+Alabama,AL,Kindergarten,2 MMR,County,Data Provided by Immunization Division
+Alaska,AK,Kindergarten,2 MMR,State,https://www.cdc.gov/mmwr/volumes/72/wr/mm7202a2.htm
+Arizona,AZ,Kindergarten,2 MMR,County,https://apps.azdhs.gov/IDRREportStats
+Arkansas,AR,Kindergarten,2 MMR,State,https://www.cdc.gov/mmwr/volumes/72/wr/mm7202a2.htm
+California,CA,Kindergarten,2 MMR,County,https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/Immunization/2021-22KindergartenSummaryReport.pdf
+Colorado,CO,Kindergarten,2 MMR,County,https://cdphe.colorado.gov/school-and-child-care-immunization-data
+Connecticut,CT,Kindergarten,2 MMR,County,https://data.ct.gov/Health-and-Human-Services/County-Immunizations-and-Exemption-Rates-by-School/8kid-pp5k/data
+Delaware,DE,Kindergarten,2 MMR,State,https://www.dhss.delaware.gov/dph/dpc/school-immunizations.html
+District of Columbia,DC,Kindergarten,MMR,County,https://www.cdc.gov/vaccines/imz-managers/coverage/schoolvaxview/data-reports/index.html
+Florida,FL,Kindergarten,2 MMR,County,FloridaHealth.gov/statistics-and-data/immunization-coverage-surveys-reports/state-surveys.html
+Georgia,GA,19-35 months,MMR,County,https://dph.georgia.gov/immunization-study-reports
+Hawaii,HI,Kindergarten to K-12,100%-incomplete immunization rate,School,https://health.hawaii.gov/docd/resources/reports/immunization-exemptions/
+Idaho,ID,Kindergarten,2 MMR,State,https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=22312&dbid=0&repo=PUBLIC-DOCUMENTS
+Illinois,IL,PreK-12,1 MMR,School,https://www.isbe.net/Pages/Health-Requirements-Student-Health-Data.aspx
+Indiana,IN,Age 19-35 months,1 MMR (4:3:1:3:3:1:4 Series),County,https://www.in.gov/health/immunization/immunization-data/county-rate-assessment/#Annual_Reports
+Iowa,IA,Kindergarten,2 MMR (Immunization and Provisional Certificates),County,https://hhs.iowa.gov/public-health/immunization
+Kansas,KS,Kindergarten,2 MMR,School,https://www.kdhe.ks.gov/2016/Kindergarten-Immunization-Data
+Kentucky,KY,Kindergarten,2 MMR,County,https://healthtracking.ky.gov/Topics/immunizations/Pages/Kentucky-Immunization-Registry-.aspx
+Louisiana,LA,Kindergarten; Public school only,2 MMR,County,https://analytics.la.gov/t/LDH/views/School_SY/CompleteImmunizaionRecords?%3Adisplay_count=n&%3Aembed=y&%3AisGuestRedirectFromVizportal=y&%3Aorigin=viz_share_link&%3AshowAppBanner=false&%3AshowVizHome=n
+Maine,ME,Kindergarten,2 MMR,County,https://www.maine.gov/dhhs/mecdc/infectious-disease/immunization/publications/index.shtml
+Maryland,MD,Kindergarten,2 MMR,County,https://health.maryland.gov/phpa/OIDEOR/IMMUN/Pages/Kindergarten_Immunization_Rates_by_County.aspx
+Massachusetts,MA,Kindergarten,2 MMR,County,https://www.mass.gov/info-details/school-immunizations#kindergarten-data-
+Michigan,MI,Kindergarten,2 MMR,County,https://www.michigan.gov/mdhhs/adult-child-serv/childrenfamilies/immunization/localhealthdepartment/school-immunization-data
+Minnesota,MN,Kindergarten,1 MMR,County,https://www.health.state.mn.us/people/immunize/stats/school/index.html
+Mississippi,MS,Kindergarten,2 MMR,County,Data Provided by Institutional Review Board Mississippi State Department of Health
+Missouri,MO,Kindergarten,2 MMR,County,Data Provided by Missouri Department of Health and Senior Services
+Montana,MT,Kindergarten,NA,State,Data provided by Communicable Disease Control and Prevention Bureau
+Nebraska,NE,Kindergarten,2 MMR,State,https://www.cdc.gov/mmwr/volumes/72/wr/mm7202a2.htm
+Nevada,NV,Kindergarten,1 MMR,County,Data Provided by Nevada Department of Health and Human Service
+New Hampshire,NH,Kindergarten,2 MMR (All Required Vaccines),State,https://www.dhhs.nh.gov/programs-services/disease-prevention/immunizations/immunization-guidance-schools
+New Jersey,NJ,Kindergarten,2 MMR - One complete set of immunizations which contains 2 doses of MMR,County,https://www.nj.gov/health/cd/statistics/imm-status-reports/?_gl=1*1e6bh8e*_ga*MTU1NTEyNTg1NC4xNjk5OTkyNjkz*_ga_5PWJJG6642*MTY5OTk5MjY5My4xLjEuMTY5OTk5MjczOC4wLjAuMA..
+New Mexico,NM,Kindergarten,2 MMR,County,https://www.nmhealth.org/data/view/report/2664/
+New York,NY,Kindergarten,2 MMR,School,Aggregated from 4034 public and private schools. immunization percentage: https://health.data.ny.gov/Health/School-Immunization-Survey-Beginning-2012-13-Schoo/5pme-xbs5. public enrollment: https://www.p12.nysed.gov/irs/statistics/enroll-n-staff/ArchiveEnrollmentData.html
+North Carolina,NC,Kindergarten,2 MMR,County,Data Provided by NC Department of Health and Human Services
+North Dakota,ND,Kindergarten,2 MMR,County,https://app.powerbigov.us/view?r=eyJrIjoiZTA1NjMzYzYtMjk4NS00MDg3LTliNGItNWQwNzdkZTRlN2FiIiwidCI6IjJkZWEwNDY0LWRhNTEtNGE4OC1iYWUyLWIzZGI5NGJjMGM1NCJ9
+Ohio,OH,Kindergarten,2 MMR,State,https://www.cdc.gov/mmwr/volumes/72/wr/mm7202a2.htm
+Oklahoma,OK,Kindergarten,2 MMR - One metric of immunization which contains 2 dose MMR,County,https://oklahoma.gov/content/dam/ok/en/health/health2/aem-documents/prevention-and-preparedness/immunizations/kindergarten-survey/KSurvey21-22Infographic.pdf
+Oregon,OR,Kindergarten,Measles 2,County,https://public.tableau.com/app/profile/oregon.immunization.program/viz/SchoolLawTableau/Kimmunizations
+Pennsylvania,PA,Kindergarten,2 MMR,County,https://www.health.pa.gov/topics/programs/immunizations/Pages/Rates.aspx
+Rhode Island,RI,Kindergarten,2 MMR,City,https://ricair-data-rihealth.hub.arcgis.com/
+South Carolina,SC,K-12,2 MMR - Students with required immunization (2-dose MMR required),County,https://scdhec.gov/health/vaccinations/childcare-school-vaccine-requirements/school-vaccination-coverage-exemption-data-county-2016-2020
+South Dakota,SD,Kindergarten,2 MMR,School,https://doh.sd.gov/topics/immunizations-vaccinations/
+Tennessee,TN,Kindergarten,2 MMR,County,https://www.tn.gov/health/ceds-weeklyreports.html
+Texas,TX,Kindergarten,2 MMR,County,https://www.dshs.texas.gov/immunizations/data/school/coverage
+Utah,UT,K-12,2 MMR,County,https://immunize.utah.gov/utah-statistics/
+Vermont,VT,Kindergarten,2 MMR,County,https://www.healthvermont.gov/stats/surveillance-reporting-topic/school-vaccination-data
+Virginia,VA,Kindergarten,2 MMR - Adequately immunized rate (2 measles contained),County,https://www.vdh.virginia.gov/immunization/sis-reports-2021-present/
+Washington,WA,Kindergarten,2 MMR,County,https://doh.wa.gov/data-and-statistical-reports/washington-tracking-network-wtn/school-immunization/dashboard
+West Virginia,WV,Kindergarten,2 MMR,State,https://www.cdc.gov/mmwr/volumes/72/wr/mm7202a2.htm
+Wisconsin,WI,Age 5-6,2 MMR,County,https://www.dhs.wisconsin.gov/publications/p02420a.pdf
+Wyoming,WY,Children (6 or 7 years old),2 MMR,County,https://health.wyo.gov/publichealth/immunization/immunization-data/wyoming-county-report-cards/
