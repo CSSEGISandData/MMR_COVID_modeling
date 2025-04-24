@@ -2,6 +2,8 @@
 
 **Authors:** [Ensheng Dong](https://github.com/enshengdong), Samee Saiyed, Andreas Nearchou, Yamato Okura, Lauren M. Gardner
 
+Preprint: https://www.medrxiv.org/content/10.1101/2025.02.13.25322239v3
+
 **Objectives**: We generate a high-resolution data set on MMR vaccination coverage in the U.S. before and after the COVID-19 pandemic. We use this data to conduct a spatiotemporal analysis of vaccination patterns and uncover the associations between MMR vaccination rates and key factors such as socioeconomic conditions, COVID-19 impact, vaccine policy and other health-related variables. 
  
 **Methods**: We collect county-level 2-dose MMR vaccination rates for kindergarten children from 2017 – 2024 for 2,266 U.S. counties, compare coverage patterns and trends before and after the COVID-19 pandemic, and implement multivariable weighted logistic regression models to identify factors associated with low and declining MMR vaccination rates in U.S. counties.
