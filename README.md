@@ -12,5 +12,5 @@ Preprint: https://www.medrxiv.org/content/10.1101/2025.02.13.25322239v3
 
 **Conclusions**: The significant association between NMEs and low and declining MMR rates suggest these state-level policies are harmful and lead to reduced vaccination coverage post-pandemic. The positive associations among vaccine types suggest spillover effects in vaccine seeking behavior. The association between MMR rates and Republican-aligned counties contrast COVID-19 vaccination patterns, highlighting the complex nature of political polarization on vaccine-related behavior.
 
-
+Note: please refer to this GitHub repo for the MMR data at the county level: https://github.com/CSSEGISandData/MMR_data.
 
